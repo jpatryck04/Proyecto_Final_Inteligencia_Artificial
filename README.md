@@ -24,6 +24,7 @@ python main.py
 -Carga y limpieza de datos: Se utiliza la función load_and_clean_data para cargar el archivo CSV y procesar los datos.
 
 -Entrenamiento de modelos:
+
 ♦Regresión logística: Entrena un modelo para clasificar a los usuarios en categorías de fidelidad (Básico, Oro, Premium).
 
 ♦Regresión lineal: Predice el gasto total de los usuarios.
